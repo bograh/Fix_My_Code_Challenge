@@ -11,7 +11,7 @@ with, others of which I was not. The specific list of projects contained follows
 * [0x00. Fix my code](./0x00-challenge)
 
 ## Author🖊️:
-* **<[Bernard Ograh](https://github.com/bograh)>**
+* [Bernard Ograh](https://github.com/bograh)
 
 ## Acknowledgements :pray:
 
